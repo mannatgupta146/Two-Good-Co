@@ -15,12 +15,39 @@ html, body {
     position: relative;
     width: 100%;
     padding: 0 2vw;
-    padding-top: 15vh;
+    padding-top: 16vh;
 }
 
 #page1 h1 {
     text-transform: uppercase;
-    font-size: 15vw;
+    font-size: 15.8vw;
     line-height: 12vw;
-    letter-spacing: -10px
+    letter-spacing: -15px
+}
+
+#video-container {
+    height: 100vh;
+    width: 100%;
+    margin-top: 1vw;
+    position: relative;
+}
+
+#video-container video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#video-container #play {
+    padding: 2.3vw 1.8vw;
+    font-size: 1.2vw;
+    background-color: #000;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    position: fixed;
+    cursor: pointer;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
 }
