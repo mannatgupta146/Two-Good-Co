@@ -26,6 +26,7 @@ html, body {
 
 #page1 h1 {
     text-transform: uppercase;
+    font-weight: 700;
     font-size: 15.8vw;
     line-height: 12vw;
     letter-spacing: -15px
