@@ -95,3 +95,7 @@ html, body {
     z-index: 9;
     background-color: rgb(229, 156, 186);
 }
+
+@media (max-width: 600px) {
+    
+}
