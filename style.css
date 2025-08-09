@@ -21,8 +21,8 @@ body{
 }
 
 #cursor{
-    height: 150px;
-    width: 150px;
+    height: 180px;
+    width: 180px;
     background-color: darkgoldenrod;
     border-radius: 50%;
     position: fixed;
