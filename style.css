@@ -20,6 +20,13 @@ body{
     background-color: #f7f7f7;
 }
 
+#nav{
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    padding: 25px;
+}
+
 #cursor{
     height: 180px;
     width: 180px;
@@ -34,7 +41,7 @@ body{
     position: relative;
     width: 100%;
     padding: 0 2vw;
-    padding-top: 16vh;
+    padding-top: 20vh;
 }
 
 #page1 h1 {
