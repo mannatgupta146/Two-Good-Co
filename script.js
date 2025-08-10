@@ -39,6 +39,32 @@ function locomotiveAnimation() {
 }
 locomotiveAnimation();
 
+
+function navbarAnimation() {
+  gsap.to("#nav1 svg", {
+    transform: "translateY(-100%)",
+    scrollTrigger: {
+      trigger: "#page1",
+      scroller: "#main",
+      start: "top 0",
+      end: "top -5%",
+      scrub: true,
+    },
+  });
+  gsap.to("#nav2 #links", {
+    transform: "translateY(-100%)",
+    opacity: 0,
+    scrollTrigger: {
+      trigger: "#page1",
+      scroller: "#main",
+      start: "top 0",
+      end: "top -5%",
+      scrub: true,
+    },
+  });
+}
+navbarAnimation();
+
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container");
     var playButton = document.querySelector("#play");
