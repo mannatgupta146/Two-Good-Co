@@ -27,7 +27,7 @@ body{
     padding: 25px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 }
 
 #nav #nav2{
@@ -35,7 +35,31 @@ body{
     align-items: center;
     justify-content: center;
     gap: 40px;
+}
 
+#links{
+    padding: 10px;
+}
+
+#nav #nav2 #links a{
+    text-decoration: none;
+    color: #333;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0 30px;
+}
+
+#icons{
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#nav #nav2 #icons i{
+    font-size: 20px;
+    color: #333;
+    cursor: pointer;
+    margin: 0 20px;
+    font-weight: 300;
 }
 
 #cursor{
