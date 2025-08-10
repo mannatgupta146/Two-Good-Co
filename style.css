@@ -30,6 +30,15 @@ body{
     align-items: flex-start;
 }
 
+#nav #nav1{
+    height: 82px;
+    overflow: hidden;
+}
+
+#nav #nav1 svg{
+    display: block;
+}
+
 #nav #nav2{
     display: flex;
     align-items: center;
