@@ -61,6 +61,7 @@ body{
 #icons{
     padding: 10px;
     border-radius: 50px;
+    background-color: #F7F7F7;
 }
 
 #nav #nav2 #icons i{
@@ -191,19 +192,25 @@ body{
     width: 100%;
     position: fixed;
     z-index: 99;
-    padding: 25px;
+    padding: 15px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
 }
 
 #nav #nav1{
-    height: 82px;
+    height: 62px;
     overflow: hidden;
 }
 
 #nav #nav1 svg{
     display: block;
+    height: 62px;
+    width: 70px;
+}
+
+#nav #twogood{
+    width: 90px;
 }
 
 #nav #nav2{
@@ -215,6 +222,7 @@ body{
 
 #links{
     padding: 10px;
+    display: none;
 }
 
 #nav #nav2 #links a{
@@ -226,7 +234,7 @@ body{
 }
 
 #icons{
-    padding: 10px;
+    padding: 7px;
     border-radius: 50px;
 }
 
