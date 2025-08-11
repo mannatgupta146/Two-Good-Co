@@ -52,6 +52,7 @@ body{
 
 #nav #nav2 #links a{
     text-decoration: none;
+    text-transform: uppercase;
     color: #333;
     font-weight: 700;
     font-size: 18px;
@@ -207,10 +208,6 @@ body{
     display: block;
     height: 62px;
     width: 70px;
-}
-
-#nav #twogood{
-    width: 90px;
 }
 
 #nav #nav2{
