@@ -64,7 +64,7 @@ The webpage adjusts for mobile devices:
 - Page sections become full-width with stacked layouts.
 - Footer and acknowledgments text adjust for smaller devices.
 
-## 🎓 Credits
+## Credits
 
 - Original website: [TwoGood](https://twogood.com.au/)  
 - Tutorial inspiration: [Shreyians Coding School](https://youtu.be/bVyigcIt-ac)  
@@ -72,3 +72,4 @@ The webpage adjusts for mobile devices:
 > **Note:** This project is created solely for educational purposes. It is a clone made for practice and learning, and no commercial claims are intended.
 
 ---
+**Debugging life together, merging souls like branches in a perfect pull request 🖥️💡**
