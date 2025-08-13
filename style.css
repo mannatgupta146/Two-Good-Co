@@ -399,4 +399,59 @@ body{
     height: 100%;
 }
 
+#page4 {
+    height: auto; 
+    padding: 8vw 6vw;
+    text-align: center;
+}
+
+#page4 .top-section { 
+    flex-direction: column; 
+    align-items: center;
+    gap: 6vw; 
+    margin-bottom: 6vw; 
+}
+
+#page4 .left, 
+#page4 .right, 
+#page4 .middle { 
+    width: 100%; 
+    text-align: center; 
+    margin-bottom: 3vw;
+}
+
+#page4 .middle img {
+    max-width: 30vw; 
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#page4 .section-title { 
+    font-size: 5vw; 
+    margin-bottom: 3vw; 
+}
+
+#page4 ul li { 
+    margin-bottom: 2.5vw; 
+}
+
+#page4 ul li a { 
+    font-size: 4.5vw;
+    text-align: left;
+}
+
+#page4 .footer-text { 
+    font-size: 3vw; 
+    margin-bottom: 5vw; 
+    text-align: left;
+}
+
+#page4 .acknowledgement { 
+    font-size: 3.6vw; 
+    line-height: 4vw; 
+    width: 100%; 
+    text-align: left;
+}
+
 }
