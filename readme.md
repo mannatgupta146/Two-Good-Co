@@ -72,4 +72,4 @@ The webpage adjusts for mobile devices:
 > **Note:** This project is created solely for educational purposes. It is a clone made for practice and learning, and no commercial claims are intended.
 
 ---
-**Debugging life together, merging souls like branches in a perfect pull request 🖥️💡**
+**💻 Debugging life together, merging souls like branches in a perfect pull request 💡**
