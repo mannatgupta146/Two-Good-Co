@@ -188,7 +188,7 @@ body{
 #page4 {
     height: 100vh;
     width: 100%;
-    padding: 12vw 14vw;
+    padding: 12vw 7vw;
     text-align: center;
 }
 
@@ -207,7 +207,7 @@ body{
 
 #page4 .middle { 
     width: 40%; 
-    text-align: center; 
+    text-align: left; 
 } 
 
 #page4 .middle img {
