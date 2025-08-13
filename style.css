@@ -210,6 +210,13 @@ body{
     text-align: center; 
 } 
 
+#page4 .middle img {
+    width: 13vw; 
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 #page4 .section-title { 
     font-size: 1.6vw; 
     color: gray; 
